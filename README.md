@@ -27,4 +27,4 @@ Supervisor should be able to approve or deny request.
 
 Employee should be able view request status.
 
-
+[class_diagram](https://github.com/faikturan/annualleavemanagement/blob/faikturan/annualleavemanagement/class_diagram.png)
